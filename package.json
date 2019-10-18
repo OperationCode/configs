@@ -1,0 +1,22 @@
+{
+  "name": "eslint-custom-plugin",
+  "version": "1.0.0",
+  "description": "Custom ESLint Rules for Operation Code Projects",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Aaron Nah",
+  "devDependencies": {
+    "np": ">=5",
+    "lodash": ">=4"
+  },
+  "peerDependencies": {
+    "lodash": ">=4"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "linter",
+    "lint"
+  ]
+}
