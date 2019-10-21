@@ -1,7 +1,4 @@
-/* eslint-disable import/no-extraneous-dependencies */
-/* eslint-disable unicorn/prevent-abbreviations */
-
-const get = require('./node_modules/lodash/get');
+const get = require('../../lodash/get');
 
 // helper func which targets possible react components
 const hasDeclaration = (singleNode, propTypeNode) => {

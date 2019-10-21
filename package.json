@@ -1,5 +1,5 @@
 {
-  "name": "@operation_code/eslint",
+  "name": "@operation_code/eslint-plugin-custom-rules",
   "version": "1.0.0",
   "description": "Custom ESLint Rules for Operation Code Projects",
   "license": "MIT",
