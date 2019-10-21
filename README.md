@@ -5,7 +5,7 @@ Custom ESLint Rules for [Operation Code](https://github.com/operationCode/) Proj
 ## Installation
 
 ```bash
-yarn add --dev @operation_code/eslint-plugin-custom-rules
+yarn add -D @operation_code/eslint-plugin-custom-rules
 ```
 
 ## Usage
