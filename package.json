@@ -1,6 +1,6 @@
 {
   "name": "eslint-custom-plugin",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Custom ESLint Rules for Operation Code Projects",
   "license": "MIT",
   "main": "index.js",
