@@ -1,13 +1,13 @@
 {
   "name": "@operation_code/eslint",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Custom ESLint Rules for Operation Code Projects",
   "license": "MIT",
   "main": "index.js",
   "author": "Aaron Nah",
   "devDependencies": {
-    "np": ">=5",
-    "lodash": ">=4"
+    "lodash": ">=4",
+    "np": ">=5"
   },
   "peerDependencies": {
     "lodash": ">=4"
