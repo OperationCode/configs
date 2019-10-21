@@ -18,5 +18,16 @@
     "eslint-plugin",
     "linter",
     "lint"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operationcode/configs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/operationcode/configs/issues"
+  },
+  "homepage": "https://github.com/operationcode/configs#readme"
 }
